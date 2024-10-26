@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139054927656",
+    "project_id": "muzic-16d63",
+    "storage_bucket": "muzic-16d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139054927656:android:113f6c1630b165eac74a1d",
+        "android_client_info": {
+          "package_name": "com.example.muzic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwkZ_UnsQAN8gVyIQ3A7bzl6bzXdy7o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
